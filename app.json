@@ -24,11 +24,11 @@
       },    
       "ADMIN_QRUP": {
          "description": "Etirafları təsdiqləməy üçün bir qrup yaradın. yaratdığınız botu həmin qrupa atıb admin edib qrup idini bura yazın",
-         "value": "-1002037976184"
+         "value": "-1002053792198"
       },      
       "ETIRAF_QRUP": {
          "description": "Təsdiqlədiyiniz etiraf paylaşılacaq kanal/qrup idini yazın",
-         "value": "-1002006307248"
+         "value": "-1001913809321"
       },
       "LOG_QRUP": {
          "description": "Bu qrupa botunuz giriş çıxış bilgiləri və xüsusi gizli məlumatlar göndərəcəy bu qrupda yalnız özünüz olun",
@@ -36,7 +36,7 @@
       },
       "kanal": {
          "description": "Etiraflar paylaşılacaq kanal/qrup linkini bura yazın @ işarəsi olmadan",
-         "value": "hossohbetleritirafkanal"
+         "value": "https://t.me/Bedeller"
       },
       "BOT_AD": {
          "description": "Botun usernamesini bura yazın @ işarəsi ilə",
@@ -64,7 +64,7 @@
       }, 
       "etirafyaz": {
          "description": "Etiraf etməy istəyən istifadəçiyə yazılan mesaj",
-         "value": "**Buyur Bana Bir İtiraf Yaz Daha Sonra Aık mı ? Anonim mi ? Sorucam!** 😍"
+         "value": "**Buyur Bana Bir İtiraf Yaz Daha Sonra Açık mı ? Anonim mi ? Sorucam!** 😍"
       },
       "gonderildi": {
          "description": "Etiraf edəndən sonra yazılan mesaj (öz kanalınızı yazın)",
